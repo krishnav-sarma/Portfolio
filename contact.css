@@ -152,7 +152,7 @@ button:hover{
 @media (max-width: 420px){
     .icon{
         align-items: center;
-        bottom: 30px;
+        bottom: 46px;
     }
     .icon a{
         size: 20px;
